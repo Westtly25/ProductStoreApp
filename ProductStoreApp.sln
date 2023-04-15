@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{75674378-9CFD-499D-A162-009E0CD6BF5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossApp", "CrossApp\CrossApp.csproj", "{9DF07A64-1FD1-4AD6-AEB6-CDA41D7A61DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrossApp", "CrossApp\CrossApp.csproj", "{9DF07A64-1FD1-4AD6-AEB6-CDA41D7A61DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
